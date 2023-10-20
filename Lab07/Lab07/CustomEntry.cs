@@ -7,6 +7,6 @@ namespace Lab07
 {
     public class CustomEntry : Entry
     {
-
+      //contenido estefany
     }
 }
